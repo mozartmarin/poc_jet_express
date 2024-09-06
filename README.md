@@ -1,8 +1,14 @@
 # 👋 Hi there! I'm Marin
 
+<img src="https://github.com/mozartmarin/mozartmarin/blob/main/BOLD_Automation_Logo_01.jpg" alt="Marin's Profile Picture" width="200"/>
+
 ### 🚀 Consultant | Developer | Software Engineer | RPA, AI & DATA Specialist
 
 My name is Marin, and I work as a Consultant, Developer, Software Engineer, and RPA, AI & DATA Engineer. I have a background in advanced technology solutions, with a degree from MIT Professional Education and certifications in **UiPath**, **Automation Anywhere**, and **Automation Edge**. I also hold MBAs in **Marketing** (FGV) and **Cloud Data Engineering** (XP Education), along with a **Data Science Specialization** from Digital House.
+
+---
+
+### 🛠 Tech Stack & Tools:
 
 ![Python Badge](https://img.shields.io/badge/Code-Python-blue)
 ![RPA Badge](https://img.shields.io/badge/RPA-UiPath-red)
@@ -16,16 +22,6 @@ My name is Marin, and I work as a Consultant, Developer, Software Engineer, and 
 
 ## 💼 What I Do:
 I specialize in developing and implementing innovative tech solutions in complex environments. My extensive experience in working with major systems such as **SAP**, **Oracle**, **Salesforce**, and **TOTVS** enables me to optimize processes and operations for clients, delivering **advanced automation** that drives efficiency.
-
----
-
-## 🛠 Tech Stack & Tools:
-- **RPA**: UiPath, Automation Anywhere, Automation Edge
-- **Languages**: Python, JavaScript, VB, PowerShell, AutoIt
-- **APIs**: REST, SOAP
-- **Low-Code/No-Code**: Bubble, Microsoft Power Apps, Wappler
-- **Data**: SQL, Cloud Data Engineering
-- **Automation**: Building integrated workflows, optimizing operations
 
 ---
 
