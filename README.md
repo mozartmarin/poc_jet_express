@@ -4,6 +4,14 @@
 
 My name is Marin, and I work as a Consultant, Developer, Software Engineer, and RPA, AI & DATA Engineer. I have a background in advanced technology solutions, with a degree from MIT Professional Education and certifications in **UiPath**, **Automation Anywhere**, and **Automation Edge**. I also hold MBAs in **Marketing** (FGV) and **Cloud Data Engineering** (XP Education), along with a **Data Science Specialization** from Digital House.
 
+![Python Badge](https://img.shields.io/badge/Code-Python-blue)
+![RPA Badge](https://img.shields.io/badge/RPA-UiPath-red)
+![Automation Anywhere Badge](https://img.shields.io/badge/RPA-Automation_Anywhere-orange)
+![Langchain Badge](https://img.shields.io/badge/AI-Langchain-green)
+![Streamlit Badge](https://img.shields.io/badge/Web-Streamlit-red)
+![Microsoft Power Apps Badge](https://img.shields.io/badge/Low_Code-Microsoft_Power_Apps-purple)
+![Wappler Badge](https://img.shields.io/badge/Low_Code-Wappler-blueviolet)
+
 ---
 
 ## 💼 What I Do:
