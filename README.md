@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Marin
 
-<img src="[https://github.com/mozartmarin/mozartmarin/blob/main/Foto_Mozart.jpeg](https://github.com/mozartmarin/mozartmarin/blob/main/Foto_Mozart.jpeg)" alt="Marin's Profile Picture" width="200"/>
+<img src="https://github.com/mozartmarin/mozartmarin/blob/main/Foto_Mozart.jpeg?raw=true" alt="Marin's Profile Picture" width="200"/>
 
 ### 🚀 Consultant | Developer | Software Engineer | RPA, AI & DATA Specialist
 
