@@ -2,9 +2,10 @@
 
 <img src="https://raw.githubusercontent.com/mozartmarin/mozartmarin/main/Foto_Mozart.jpeg" alt="Marin's Profile Picture" width="200"/>
 
-### 🚀 Consultant | Developer | Software Engineer | RPA, AI & DATA Specialist
+### 🚀 Data & AI Engineer
 
-My name is Marin, and I work as a Consultant, Developer, Software Engineer, and RPA, AI & DATA Engineer. I have a background in advanced technology solutions, with a degree from MIT Professional Education and certifications in **UiPath**, **Automation Anywhere**, and **Automation Edge**. I also hold MBAs in **Marketing** (FGV) and **Cloud Data Engineering** (XP Education), along with a **Data Science Specialization** from Digital House.
+My name is Marin, and I work as a Data & AI Engineer. I have a background in advanced technology solutions, with a degree from MIT Professional Education and certifications in **UiPath**, **Automation Anywhere**, and **Automation Edge**. I also hold MBAs in **Marketing** (FGV) and **Cloud Data Engineering** (XP Education), along with a **Data Science Specialization** from Digital House.
+
 
 ---
 
