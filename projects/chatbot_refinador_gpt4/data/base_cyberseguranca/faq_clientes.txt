@@ -1,0 +1,23 @@
+Q: A ShieldSec atende pequenas empresas?
+A: Sim, temos planos escaláveis para pequenas e médias empresas.
+
+Q: Vocês ajudam com conformidade à LGPD?
+A: Sim, oferecemos auditorias e orientação jurídica para apoiar a adequação.
+
+Q: Posso contratar apenas um pentest?
+A: Sim, é possível contratar serviços avulsos ou sob demanda.
+
+Q: O que é SIEM e como ele é utilizado pela ShieldSec?
+A: SIEM (Security Information and Event Management) é uma solução de segurança que coleta, agrega e analisa dados de eventos de diferentes sistemas da empresa em tempo real. A ShieldSec utiliza SIEM para monitorar continuamente os ambientes dos clientes, detectar atividades suspeitas e responder a incidentes com agilidade. Ele permite a visualização unificada de logs e alertas, contribuindo para uma postura de segurança mais pro
+
+Q: Qual foi a última empresa que teve um ataque cibernético relacionado a compliance?
+
+A: A última empresa que teve um ataque cibernético relacionado a compliance foi a Aerotecnic, uma empresa andaluza do setor aeronáutico. Em 2024, a Aerotecnic sofreu um ataque que expôs 800 GB de informações sensíveis, incluindo dados de usuários, empleados, produção e informações comerciais e financeiras. Esse incidente destacou a importância de medidas proativas de cibersegurança e a necessidade de conformidade com regulamentos de proteção de dados para evitar violações e suas consequências legais e financeiras 1.
+
+
+Q: Me fale sobre cyber no modelo WAF?
+A: O modelo WAF (Web Application Firewall) é uma solução de segurança cibernética projetada para proteger aplicações web contra ameaças como ataques de injeção SQL, cross-site scripting (XSS) e ataques de negação de serviço (DDoS). Ele funciona filtrando e monitorando o tráfego HTTP/S entre a aplicação e a internet, aplicando regras para identificar e bloquear atividades maliciosas. Além disso, pode ser configurado para cumprir requisitos de conformidade e segurança, como OWASP Top 10, garantindo maior proteção para aplicações online.
+
+Q: Qual foi o último ataque cibernético a uma empresa chinesa?
+
+A: O último ataque cibernético relatado a uma empresa chinesa foi contra a DeepSeek, uma startup de inteligência artificial sediada em Hangzhou. O ataque ocorreu em 27 de janeiro de 2025, levando a empresa a limitar temporariamente as inscrições para seu assistente de IA devido a problemas de segurança

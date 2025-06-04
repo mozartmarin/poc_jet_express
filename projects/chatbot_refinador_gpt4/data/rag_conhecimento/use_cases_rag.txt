@@ -1,0 +1,6 @@
+Soluções RAG (Retrieval-Augmented Generation) são utilizadas para dar contexto a LLMs usando documentos.
+Empresas utilizam RAG para:
+- Responder dúvidas de clientes com base em FAQs e manuais
+- Criar assistentes internos com dados da empresa
+- Ajudar equipes jurídicas a buscar jurisprudências
+- Gerar diagnósticos técnicos a partir de logs e relatórios

@@ -1,0 +1,4 @@
+A Inteligência Artificial está no centro da transformação digital das empresas.
+Ela permite automatizar decisões, personalizar a experiência do cliente e criar novos modelos de negócio baseados em dados.
+Startups e grandes corporações estão adotando IA para ganhar competitividade, reduzir custos e acelerar a inovação.
+Frameworks como LangChain e LangGraph ajudam a colocar a IA em produção conectando dados, lógica de negócio e linguagem natural.

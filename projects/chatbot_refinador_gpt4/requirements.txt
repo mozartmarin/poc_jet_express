@@ -1,0 +1,11 @@
+langchain>=0.1.14
+langgraph>=0.0.32
+langchain-community
+langchain-openai
+openai>=1.14.1
+faiss-cpu
+tiktoken
+python-dotenv
+streamlit
+pypdf
+

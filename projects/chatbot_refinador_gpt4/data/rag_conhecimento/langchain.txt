@@ -1,0 +1,3 @@
+LangChain é um framework open-source que facilita a construção de aplicações usando Modelos de Linguagem.
+Ele permite orquestrar LLMs com memória, APIs, bases de conhecimento vetoriais e agentes.
+É usado em casos como chatbots, sistemas de Q&A, fluxos de decisão e copilotos inteligentes para empresas.

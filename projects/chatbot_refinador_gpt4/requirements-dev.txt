@@ -1,0 +1,4 @@
+black==24.3.0         # Formatação automática de código
+ruff==0.3.0           # Linter e checker de estilo rápido
+pytest==8.1.1         # Testes automatizados
+python-dotenv         # Para carregar .env nos testes

@@ -1,0 +1,3 @@
+A ShieldSec é uma empresa especializada em soluções de cibersegurança para empresas de todos os portes.
+Fundada em 2015, protege infraestruturas digitais com serviços de monitoramento, resposta a incidentes, pentests e auditorias.
+Nossa missão é proteger ativos digitais com inteligência, agilidade e inovação.

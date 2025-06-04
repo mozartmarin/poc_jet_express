@@ -1,0 +1,6 @@
+A ShieldSec oferece:
+- Monitoramento 24/7 de redes e sistemas
+- Testes de intrusão (pentests) em aplicações web, redes e APIs
+- Auditoria de segurança para conformidade com LGPD, ISO 27001 e NIST
+- Simulação de ataques (Red Team)
+- Consultoria para implantação de políticas de segurança

@@ -1,0 +1,24 @@
+LangChain é um framework open-source que facilita a construção de aplicações usando Modelos de Linguagem (LLMs).
+Ele permite orquestrar LLMs com memória, APIs, bases de conhecimento vetoriais e agentes.
+É usado em casos como chatbots, sistemas de Q&A, fluxos de decisão e copilotos inteligentes para empresas.
+
+
+LangGraph é uma extensão do LangChain baseada em grafos de estados.
+Ele permite criar workflows com loops, decisões condicionais e múltiplos agentes.
+É ideal para casos onde a IA precisa tomar decisões baseadas em etapas anteriores, como ciclos de avaliação e refinamento de respostas.
+
+
+Soluções RAG (Retrieval-Augmented Generation) são utilizadas para dar contexto a LLMs usando dados externos.
+Empresas utilizam RAG para:
+
+- Responder dúvidas de clientes com base em FAQs e manuais
+- Criar assistentes internos com dados da empresa
+- Ajudar equipes jurídicas a buscar jurisprudências
+- Gerar diagnósticos técnicos a partir de logs e relatórios
+
+Essas soluções usam vetores + embeddings + LLMs para gerar respostas contextualizadas.
+
+
+A Inteligência Artificial é um dos pilares da Transformação Digital.
+Empresas que adotam IA conseguem automatizar tarefas, prever padrões e personalizar interações com clientes.
+Frameworks como LangChain e LangGraph ajudam a operacionalizar IA em pipelines reais, conectando modelos a dados, APIs e lógica de negócios.

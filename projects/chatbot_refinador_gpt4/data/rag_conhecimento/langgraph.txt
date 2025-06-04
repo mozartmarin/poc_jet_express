@@ -1,0 +1,3 @@
+LangGraph é uma extensão do LangChain baseada em grafos de estados.
+Ele permite criar workflows com loops, decisões condicionais e múltiplos agentes.
+É ideal para casos onde a IA precisa tomar decisões baseadas em etapas anteriores, como ciclos de revisão e roteamento.

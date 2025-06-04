@@ -1,0 +1,4 @@
+Pentest: Teste de invasão simulado para identificar vulnerabilidades.
+LGPD: Lei Geral de Proteção de Dados, que regula o uso de dados pessoais no Brasil.
+SIEM: Sistema de Gerenciamento de Eventos e Informações de Segurança.
+Red Team: Simulação realista de ataques para testar a detecção e resposta da equipe defensiva.
