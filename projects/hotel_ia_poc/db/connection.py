@@ -16,3 +16,11 @@ def get_reservas():
     with engine.connect() as conn:
         df = pd.read_sql(query, conn)
     return df
+
+if __name__ == "__main__":
+    try:
+        df = get_reservas()
+        print(df)
+    except Exception as e:
+        print(f"Erro ao conectar ou consultar o banco: {e}")
+

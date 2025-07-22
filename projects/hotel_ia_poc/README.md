@@ -13,7 +13,7 @@ A aplicação é executada localmente, com modelo LLM hospedado via [Ollama](htt
 - Diária média e permanência média em períodos personalizáveis
 - Listagem de hóspedes por data ou período
 - Interação em linguagem natural
-- Layout profissional com identidade visual da Skyone
+- Layout profissional com identidade visual da Empresa
 
 ---
 
